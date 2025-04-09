@@ -11,7 +11,8 @@ This project analyzes global tech layoffs using SQL. The dataset includes major 
 - **Dataset**: Layoffs in tech companies from 2020 onwards
 - **Tools Used**: SQL (MySQL / PostgreSQL), Excel, CSV
 
-![click to SQL Code](
+![click to SQL Code](https://github.com/Softechanalytics/layoffs/blob/main/sql_SOLUTION_BARRA.sql)
+
 ![click to Dataset](
 ---
 

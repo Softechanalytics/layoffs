@@ -13,7 +13,8 @@ This project analyzes global tech layoffs using SQL. The dataset includes major 
 
 ![click to SQL Code](https://github.com/Softechanalytics/layoffs/blob/main/sql_SOLUTION_BARRA.sql)
 
-![click to Dataset](
+![click to Dataset](https://github.com/Softechanalytics/layoffs/blob/main/layoffs.csv)
+
 ---
 
 ## 📁 Repository Structure
